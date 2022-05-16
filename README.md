@@ -11,8 +11,6 @@ L'ensemble des projets que j'ai décidé de rendre public et des projets réalis
 - HTML / CSS
 - PHP / Symfony
 - mySQL
-- Java
-- Docker
 
 
 
