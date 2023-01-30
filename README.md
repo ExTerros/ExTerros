@@ -1,5 +1,6 @@
 # 💫 À propos de moi:
-### Bonjour 👋<br><br>## Qui suis-je ?<br>Nicolas Duval Aprennant 2023 à Zone01 Rouen <br><br>
+### Bonjour 👋<br><br>
+## Qui suis-je ?<br>Nicolas Duval Aprennant 2023 à Zone01 Rouen <br><br>
 ## Que trouverez vous ici ?<br>L'ensemble des projets que j'ai décidé de rendre public et des projets réalisés dans le cas de ma formation à Zone 01.<br><br>
 ## Quelles sont les technologies dans lesquelles j'ai des notions ?<br><br>- HTML / CSS<br>- JS / DiscordJs<br>- PHP / Symfony<br>- MYSQL<br><br>
 ## Quelles sont les technologies que je voudrais apprendre ?<br><br>- React<br>- NodeJS<br>- TypeScript<br>- Go<br>- Rust
