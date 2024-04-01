@@ -21,7 +21,7 @@ Vous explorerez l'univers de mes projets publics et ceux réalisés dans le cadr
 - Rust
 
 ## ⚙️ Projet en cours:
-Je travaille actuellement sur la V2 de [OkaShibot](https://okashibot.le-grimoire.fr), un projet qui comprend une API en Rust, un bot Discord en Python, une base de données en PostgreSQL, et un site en ReactJS.
+Je travaille actuellement sur la V2 de [OkaShibot](https://okashibot.le-grimoire.fr), un projet qui comprend une API en Rust, un bot Discord en JavaScript, une base de données en PostgreSQL, et un site en ReactJS.
 
 ## 🌐 Réseaux sociaux:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discord://discordapp.com/users/113380867614773248)
