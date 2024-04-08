@@ -31,10 +31,6 @@ Je travaille actuellement sur la V2 de [OkaShibot](https://okashibot.le-grimoire
 # 💻 Technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sql&logoColor=white) ![ProstSQL](https://img.shields.io/badge/prostsql-%23316192.svg?style=for-the-badge&logo=prostsql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23D02090.svg?style=for-the-badge&logo=java&logoColor=white)
 
-N'hésitez pas à explorer mes projets et à me contacter sur Discord pour discuter davantage de mes travaux et de mes passions technologiques! 👨‍💻🚀
-
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-![exterros's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exterros&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+N'hésitez pas à explorer mes projets et à me contacter sur [Discord](https://discordapp.com/users/113380867614773248) pour discuter davantage de mes travaux et de mes passions technologiques! 👨‍💻🚀
 
 </div>
