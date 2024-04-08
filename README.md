@@ -11,7 +11,7 @@ Vous explorerez l'univers de mes projets publics et ceux réalisés dans le cadr
 - HTML / CSS
 - JavaScript / Discord.js
 - PHP / Symfony
-- MySQL
+- MySQL / PostgreSQL
 
 ## 📚 Technologies en cours d'apprentissage :
 - ReactJS
