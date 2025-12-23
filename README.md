@@ -8,26 +8,35 @@
       "website": "https://okashibot.fr",
       "stack": [
         "Rust (API)",
-        "JavaScript (Discord Bot) - will change",
+        "Python (Discord Bot)",
         "PostgreSQL (Database)",
-        "Next.js (Web) - might change"
+        "Next.js (Web)"
       ]
     }
   },
   "tech_stack": [
     "JavaScript",
     "PHP",
+    "Python",
+    "Go",
+    "Rust",
     "Symfony",
     "Node.js",
     "React",
     "Next.js",
-    "Go",
-    "Rust",
     "Docker",
+    "Odoo",
     "PostgreSQL",
     "MySQL",
     "Nginx",
     "Apache"
+  ],
+  "work": [
+    {
+      "name": "Subteno IT",
+      "website": "https://www.subteno.com",
+      "type": "Apprenticeship"
+    }
   ],
   "socials": {
     "discord": {
